@@ -1,0 +1,9 @@
+,CreateDate,EmissionDate,Discount,NFeNumber,NFeID,ItemList
+0,2021-05-24T20:21:34.79,2021-05-24T00:00:00,0.0,501,1,"{'ProductName': 'Rice', 'Value': 35.55, 'Quantity': 2}"
+1,2021-05-24T20:21:34.79,2021-05-24T00:00:00,0.0,501,1,"{'ProductName': 'Flour', 'Value': 11.55, 'Quantity': 5}"
+2,2021-05-24T20:21:34.79,2021-05-24T00:00:00,0.0,501,1,"{'ProductName': 'Bean', 'Value': 27.15, 'Quantity': 7}"
+3,2021-05-24T20:21:34.79,2021-05-24T00:00:00,0.0,502,2,"{'ProductName': 'Tomate', 'Value': 12.25, 'Quantity': 10}"
+4,2021-05-24T20:21:34.79,2021-05-24T00:00:00,0.0,502,2,"{'ProductName': 'Pasta', 'Value': 7.55, 'Quantity': 5}"
+5,2021-05-24T20:21:34.79,2021-05-24T00:00:00,0.0,503,3,"{'ProductName': 'Beer', 'Value': 9.0, 'Quantity': 6}"
+6,2021-05-24T20:21:34.79,2021-05-24T00:00:00,0.0,503,3,"{'ProductName': 'French fries', 'Value': 10.99, 'Quantity': 2}"
+7,2021-05-24T20:21:34.79,2021-05-24T00:00:00,0.0,503,3,"{'ProductName': 'Ice cream', 'Value': 27.15, 'Quantity': 1}"
